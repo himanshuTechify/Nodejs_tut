@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bd5a4c32-33f5-4bec-8a34-061fb137ea8d",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "1234567890",
+    "address": "123 Main St",
+    "is_active": "true",
+    "is_deleted": "false"
+  },
+  {
+    "id": "59a00e5b-ed62-456e-9606-87f3e0f7c77e",
+    "first_name": "Mia",
+    "last_name": "Si",
+    "email": "tom.curze@example.com",
+    "phone": "1234567890",
+    "address": "New York",
+    "is_active": "true",
+    "is_deleted": "false"
+  },
+  {
+    "id": "f3e3a444-0fb4-413c-bbf6-cba3b70a529b",
+    "first_name": "Tom",
+    "last_name": "Curze",
+    "email": "john.soft@example.com",
+    "phone": "1234567890",
+    "address": "123 Main St",
+    "is_active": "false",
+    "is_deleted": "true"
+  },
+  {
+    "id": "7062ab05-44a3-4233-9eb2-340db242cc67",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doooe@example.com",
+    "phone": "1234567890",
+    "address": "123 Main St",
+    "is_active": "true",
+    "is_deleted": "false"
+  },
+  {
+    "id": "b5c868c2-a560-40d4-8941-a3943dd3955b",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "johnnn.doe@example.com",
+    "phone": "1234567890",
+    "address": "123 Main St",
+    "is_active": "true",
+    "is_deleted": "false"
+  },
+  {
+    "id": "4a9e4a82-e9e7-4309-a60c-d3efd9d73d98",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "johny.doe@example.com",
+    "phone": "1234567890",
+    "address": "123 Main St",
+    "is_active": "false",
+    "is_deleted": "true"
+  },
+  {
+    "id": "ae254bf3-6e78-48bf-aa8e-d40a194b9c7c",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.softy@example.com",
+    "phone": "1234567890",
+    "address": "123 Main St",
+    "is_active": "true",
+    "is_deleted": "false"
+  },
+  {
+    "id": "8b40cf5d-51a2-44b5-a0e8-94046b11c24c",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doeeee@example.com",
+    "phone": "1234567890",
+    "address": "123 Main St",
+    "is_active": "false",
+    "is_deleted": "true"
+  },
+  {
+    "id": "c6886b03-b019-4ad3-80e4-d9645756f90c",
+    "first_name": "JAck",
+    "last_name": "jack",
+    "email": "jack.doee@example.com",
+    "phone": "1234567890",
+    "address": "Ni btana",
+    "is_active": "true",
+    "is_deleted": "false"
+  }
+]
