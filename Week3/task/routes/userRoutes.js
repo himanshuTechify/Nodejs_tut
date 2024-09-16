@@ -17,8 +17,6 @@ router
   .delete("/:id",protect,admin, deleteUser)
 
 
-
-
 module.exports = router;
 
 
