@@ -73,7 +73,6 @@ const updateUserService = async (userId, userBody) => {
     email,
     password,
     phone,
-    
     address,
     role,
     isActive,
